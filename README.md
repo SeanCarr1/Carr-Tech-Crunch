@@ -1,6 +1,7 @@
 # Carr Tech Crunch
 
 Carr Tech Crunch is an interactive web platform for learning programming concepts, practicing coding exercises, and tracking your progress. Users can register, log in, complete tutorials, comment on articles, and view their achievements on a personalized profile page.
+<img width="1919" height="930" alt="image" src="https://github.com/user-attachments/assets/0f351bfc-a309-4f4c-b5f5-cd2f7580ba41" />
 
 ## Features
 
